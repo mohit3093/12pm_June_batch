@@ -39,6 +39,8 @@ public class Assignment
       int result4=obj.add(result3, 2);
       obj.multi(result4, 2);
       
+      System.out.println("some changes");
+      
 			  
 	  
 	  
